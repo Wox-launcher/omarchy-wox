@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.wox-launcher.wox",
+  "name": "Wox",
+  "version": "0.1.0",
+  "author": "Wox Launcher",
+  "description": "Wox launcher integration for Omarchy.",
+  "kinds": ["service"],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}
