@@ -2,6 +2,8 @@
 
 An Omarchy Shell service that opens or hides the Wox launcher. Wox is a separate application and must be installed and started before this plugin can be used. The plugin does not install Wox or add a bar widget.
 
+![Wox showing Omarchy menu search results](preview.png)
+
 ## Requirements
 
 - Omarchy 4 with Omarchy Shell
